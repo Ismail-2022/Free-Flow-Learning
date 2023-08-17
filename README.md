@@ -4,6 +4,7 @@ Welcome to Free Flow Learning, a platform designed to provide an interactive and
 Features:
 Physics Model: Bohr Atomic Model
 
+
 Explore the fundamentals of atomic structure with our interactive Bohr Atomic Model. Using the Oculus Quest 2, students can interact with the model and attempt a timed test. Their speed in completing the model determines their grading, encouraging quick thinking and learning.
 
 Chemistry Model: Periodic Table Challenge
